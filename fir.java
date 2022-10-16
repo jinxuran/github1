@@ -1,8 +1,8 @@
 public class Info{
     int val;
-    boolean flag;
+    boolean flag;//false
     public Info(int val,boolean flag){
         this.val=val;
-        this.flag=flag;
+        this.flag=flag;//true
     }
 }
